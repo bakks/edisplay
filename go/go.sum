@@ -1,6 +1,2 @@
-github.com/h2non/bimg v1.1.5 h1:o3xsUBxM8s7+e7PmpiWIkEYdeYayJ94eh4cJLx67m1k=
-github.com/h2non/bimg v1.1.5/go.mod h1:R3+UiYwkK4rQl6KVFTOFJHitgLbZXBZNFh2cv3AEbp8=
-github.com/h2non/bimg/v2 v2.0.0-20211213163002-c93da8b44f4a h1:v1ub9HL1zKlmGCId38t3ZIXAy19uH/bbImxx8gRodWA=
-github.com/h2non/bimg/v2 v2.0.0-20211213163002-c93da8b44f4a/go.mod h1:eVE5gqbM/jX13f+1hqSrCTe9ECcw3RiFBB5ksMuOXwo=
 gopkg.in/gographics/imagick.v2 v2.6.0 h1:ewRsUQk3QkjGumERlndbFn/kTYRjyMaPY5gxwpuAhik=
 gopkg.in/gographics/imagick.v2 v2.6.0/go.mod h1:/QVPLV/iKdNttRKthmDkeeGg+vdHurVEPc8zkU0XgBk=

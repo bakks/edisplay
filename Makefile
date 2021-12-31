@@ -1,5 +1,5 @@
 
-project: bin/fetch bin/display
+project: bin/display
 
 bin/fetch:
 	cd go && make
