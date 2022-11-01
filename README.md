@@ -1,3 +1,7 @@
+# Epaper Display Project
+
+## Setup
+
 Raspberry Pi E-paper controller setup
 
 ```
@@ -19,3 +23,11 @@ cron
 ```
 1 * * * * cd /var/tmp && /home/pi/edisplay/bin/run.sh
 ```
+
+## Hardware
+
+[Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
+
+[10.3inch e-Paper e-Ink Display HAT For Raspberry Pi](https://www.waveshare.com/product/displays/e-paper/epaper-1/10.3inch-e-paper-hat.htm)
+
+[Adafruit MacroPad RP2040](https://learn.adafruit.com/adafruit-macropad-rp2040)
