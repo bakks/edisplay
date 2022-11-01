@@ -3,3 +3,4 @@ bin/display
 *.o
 *.swp
 c/IT8951*
+py/lib/*
