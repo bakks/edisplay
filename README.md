@@ -1,3 +1,5 @@
+Raspberry Pi E-paper controller setup
+
 ```
 sudo apt-get update
 sudo apt-get install golang imagemagick libmagickwand-dev
@@ -11,4 +13,9 @@ cd bcm2835-1.71;
 ./configure;                      
 make;        
 sudo make install
+```
+
+cron
+```
+1 * * * * cd /var/tmp && /home/pi/edisplay/bin/run.sh
 ```

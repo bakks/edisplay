@@ -2,3 +2,4 @@ bin/fetch
 bin/display
 *.o
 *.swp
+c/IT8951*
